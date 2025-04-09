@@ -1,3 +1,3 @@
 # Introducing Myself
-<img src="https://github.com/khaleedgt/Imagem/raw/main/CartaoProfissional.png" width="300"/>
+<img src="https://github.com/khaleedgt/Imagem/raw/main/CartaoProfissional.png" />
 
