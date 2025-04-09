@@ -1,35 +1,24 @@
-## 👋 Hello, I'm Khaled Ghattas
+# 👋 Hello, I'm Khaled Ghattas
 
-🎓 I'm a Data Analyst and Electrical Engineering graduate passionate about transforming data into meaningful insights.
+Data Analyst with a degree in Electrical Engineering, experienced in data analysis, data visualization, data modeling, database design, and query optimization.
 
----
+## 💼 What I Do
+- Query and manipulate data using **SQL**
+- Perform ad-hoc analysis and generate reports with **SQL**
+- Build interactive dashboards in **Power BI** 
+- Analyze and automate reports using **Excel**
+- Translate data into insights to support data-driven decision-making
 
-### 🔍 What I do
+## 📚 Projects
+Welcome to my portfolio! Here I showcase the projects I've developed to solve real-world problems using data.
 
-- Querying and analyzing data using **SQL**
-- Creating dashboards with **Looker Studio** and **Tableau**
-- Automating tasks and analysis using **Python**
-- Reporting and data wrangling in **Excel** and **Google Sheets**
+## 🛠️ Tools & Technologies
+- **Languages:** SQL, Python  
+- **Databases:** PostgreSQL, MySQL  
+- **Visualization:** Power BI  
+- **Spreadsheets:** Microsoft Excel  
 
----
-
-### 🛠️ Tools & Technologies
-
-- **Languages**: Python, SQL  
-- **Databases**: Google BigQuery, PostgreSQL, MySQL  
-- **Visualization**: Tableau, Looker Studio, Excel, Google Sheets  
-
----
-
-### 📚 Projects
-
-Explore some of my work in the pinned repositories above!
-
----
-
-### 📬 Get in touch
-
-- 📧 khaledgahttas@hotmail.com  
-- [LinkedIn](https://www.linkedin.com/) *(add your LinkedIn link here)*  
-- *(Optional)* Hire me on Upwork / Freelancer etc.
-
+## 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/khaledghattas)  
+- 📧 Email: khaledgahttas@hotmail.com  
+- Open to freelance opportunities on Upwork and other platforms!
