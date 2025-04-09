@@ -46,4 +46,4 @@ Here I showcase the projects I've developed to solve real-world problems using d
 
 ---
 
-> _“Always learning and sharing. Let’s build something amazing together!”_
+> _“Just because someone stumbles and loses their way doesn't mean they are lost forever.”_
