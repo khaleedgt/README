@@ -1,2 +1,2 @@
 # Introducing Myself
-![Banner Pessoal](./Imagem/CartaoProfissional.png)
+![Minha Imagem](https://github.com/khaleedgt/repositorio/raw/main/imagens/CartaoProfissional.png)
